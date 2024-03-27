@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi! I'm Michael 👋
+<ul>
+  <li>I'm a frontend developer and graphic designer from New York</li>
+  <li>I've worked for the Department of Homeland Security and Concern Worldwide</li>
+  <li>I'm currently working on my own video game</li>
+  <li>I'm passionate about animation, illustration, and game design</li>
+</ul>
+<img src = "github animation.gif">
 <!--
 **Mikalizcool/mikalizcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
